@@ -5,4 +5,6 @@ and make an env variable for Token and place your token there no need for "Token
 after all of that just run main.py and you are good to go
 
 
-![commands](https://i.ibb.co/wsK8cS8/Beige-Illustrated-Business-Tips-Your-Story-Logo.png)
+<p align="center">
+  <img src="https://i.ibb.co/wsK8cS8/Beige-Illustrated-Business-Tips-Your-Story-Logo.png" />
+</p>
